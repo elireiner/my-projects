@@ -1,4 +1,4 @@
-# My-Projects
+# My Projects
 
 * [Front End Projects](#front-end-projects)
     * [jQuery](#jquery)
