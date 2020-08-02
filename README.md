@@ -1,4 +1,4 @@
-# My Projects
+# Projects
 
 * [Front End Projects](#front-end-projects)
     * [jQuery](#jquery)
@@ -15,10 +15,10 @@
 
 ##### Discription
 
-Are you travling? Find out more about your destination with this app! Get the news and weather.
+Are you traveling? Find out more about your destination with this app! Get the news and weather.
 
-* Built a front end app and connected it to two apis.
-* Enabled user input to construct the api request, thereby presenting users with relevent information.
+* Built a front end app and connected it to two APIs.
+* Enabled user input to construct the API request, thereby presenting users with relevant information.
 * Perfected design for mobile and revising app to be fully responsive
 * deployed app to production with vercel
 
@@ -33,7 +33,7 @@ Are you travling? Find out more about your destination with this app! Get the ne
 
 Find a great tutor! Search tutors by topic, cost, and medium (Find tutors that use zoom!)
 
-* Built the foundatoin for a great tutors app and prepared the basic login pages.
+* Built the foundation for a great tutors app and prepared the basic login pages.
 * Implementing search and design
 
 
@@ -45,9 +45,8 @@ Find a great tutor! Search tutors by topic, cost, and medium (Find tutors that u
 
 ##### Discription
 
-Use this api to and database to manage you bookmarks. Use it directly or connect to it through a client.
+Use this API to and database to manage your bookmarks. Use it directly or connect to it through a client.
 
-* Built this api to hanlde GET, DELETE, POST, and PATCH requests.
-* Designd and implemented the database and tables.
-* Deployed this api and it's database to Heroku.
-
+* Built this API to handle GET, DELETE, POST, and PATCH requests.
+* Designed and implemented the database and tables.
+* Deployed this API and it's database to Heroku.
