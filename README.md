@@ -11,7 +11,7 @@
 
 #### Explore app
 
-[Github repo](https://github.com/elireiner/explore')
+[Github repo](https://github.com/elireiner/explore)
 
 [deployed app](https://explore-three.vercel.app)
 
