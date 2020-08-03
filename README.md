@@ -15,7 +15,7 @@
 
 [deployed app](https://explore-three.vercel.app)
 
-##### Discription
+##### Description
 
 Are you traveling? Find out more about your destination with this app! Get the news and weather.
 
@@ -31,7 +31,7 @@ Are you traveling? Find out more about your destination with this app! Get the n
 
 [Github repo](https://github.com/elireiner/tutors-app)
 
-##### Discription
+##### Description
 
 Find a great tutor! Search tutors by topic, cost, and medium (Find tutors that use zoom!)
 
@@ -45,7 +45,7 @@ Find a great tutor! Search tutors by topic, cost, and medium (Find tutors that u
 
 [Github repo](https://github.com/elireiner/bookmarks-server)
 
-##### Discription
+##### Description
 
 Use this API to and database to manage your bookmarks. Use it directly or connect to it through a client.
 
